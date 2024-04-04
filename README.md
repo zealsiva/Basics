@@ -1,4 +1,4 @@
-I am an idiot
+DO SOMETHING GOOD EVERYDAY
 
 # hello-world
 Learning GitHub
